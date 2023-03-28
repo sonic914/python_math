@@ -43,5 +43,3 @@ if result_natural_number !=0:
     print (result_natural_number, "과", result_numerator, "/", irreducible_denominator)
 else:
     print (irreducible_numerator, "/", irreducible_denominator)
-
-2
